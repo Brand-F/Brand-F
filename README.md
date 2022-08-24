@@ -1,8 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Brandon!</h1> <br/> <h2>Here are my projects:</h2>
+
+<h2>⚙️Software Development Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Windows Active Directory: Get Stale Devices](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <!--
-**Brand-F/Brand-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
