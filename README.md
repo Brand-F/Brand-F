@@ -7,6 +7,8 @@ I build practical apps, games, and AI/security-focused tools with a focus on sim
 ### ColorSmashr
 [colorsmashr.app](https://colorsmashr.app)
 
+![ColorSmashr screenshot](assets/colorsmashr_screenshot.png)
+
 A mobile reflex game packaged for the web as a PWA.
 
 Focus areas:
