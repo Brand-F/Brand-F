@@ -19,7 +19,6 @@ Focus areas:
 - Store-readiness exploration
 
 ### Deadwater Drift
-[GitHub](https://github.com/Brand-F/DeadwaterDrift)
 
 ![Deadwater Drift screenshot](assets/deadwaterdrift_screenshot.png)
 
