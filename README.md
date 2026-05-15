@@ -18,6 +18,20 @@ Focus areas:
 - Clerk, Neon, Stripe, and Vercel Functions
 - Store-readiness exploration
 
+### Deadwater Drift
+[GitHub](https://github.com/Brand-F/DeadwaterDrift)
+
+![Deadwater Drift screenshot](assets/deadwaterdrift_screenshot.png)
+
+A mobile-first pixel-art naval survival roguelike PWA.
+
+Focus areas:
+- Phaser gameplay canvas
+- Touch controls and keyboard play
+- Resource survival systems
+- Pirate combat, hazards, and zone progression
+- Next.js app shell
+
 ### DirectiveOS
 A production-oriented MVP for a hierarchical AI operating system for an AI-native software company.
 
