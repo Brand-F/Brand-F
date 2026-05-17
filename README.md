@@ -42,6 +42,8 @@ Focus areas:
 - LangGraph, OpenAI SDK, Neon Postgres, and pgvector
 
 ### PayCycle
+![PayCycle screenshot](assets/paycycle_screenshot.png)
+
 A mobile-first personal finance MVP for importing CSV bank statements, detecting recurring charges and credits, forecasting cash flow, and exporting calendar-ready financial views.
 
 Focus areas:
