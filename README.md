@@ -54,6 +54,8 @@ Focus areas:
 - PostgreSQL, Prisma, and Next.js App Router
 
 ### BalanceTower
+![BalanceTower screenshot](assets/balancetower_screenshot.png)
+
 A minimalist physics-based stacking game built as a Progressive Web App.
 
 Focus areas:
