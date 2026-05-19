@@ -44,7 +44,7 @@ Focus areas:
 - Next.js dashboard experience
 - LangGraph, OpenAI SDK, Neon Postgres, and pgvector
 
-### PayCycle
+### DueCast
 ![PayCycle screenshot](assets/paycycle_screenshot.png)
 
 A mobile-first personal finance MVP for importing CSV bank statements, detecting recurring charges and credits, forecasting cash flow, and exporting calendar-ready financial views.
