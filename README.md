@@ -68,6 +68,9 @@ Focus areas:
 - Lightweight web performance
 
 ### NeonAscent
+
+![NeonAscent_Placeholder](assets/neonascent_placeholder.png)
+
 An experimental web game/project space focused on fast iteration and browser-first delivery.
 
 Focus areas:
