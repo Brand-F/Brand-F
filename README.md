@@ -32,6 +32,9 @@ Focus areas:
 - Next.js app shell
 
 ### DirectiveOS
+
+![DirectiveOS Showcase](assets/directiveos-showcase.png)
+
 A production-oriented MVP for a hierarchical AI operating system for an AI-native software company.
 
 Focus areas:
